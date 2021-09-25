@@ -1,0 +1,19 @@
+{
+    "name": "mahadihasan360/shuvo",
+    "description": "this is a helper clas",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mahadihasan360\\Shuvo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shuvo",
+            "email": "mh2736427@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
